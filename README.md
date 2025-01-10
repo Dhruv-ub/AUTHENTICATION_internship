@@ -1,0 +1,20 @@
+
+**FOR FRONTEND** 
+
+INSTALL COMMAND - npm install
+
+BUILD COMMAND - node index.js
+
+
+
+
+
+**FOR BACKEND** 
+
+INSTALL COMMAND - npm install
+
+BUILD COMMAND - npm run dev
+
+
+
+**DIDN'T HOST IT BECAUSE I HAD FREE VERSION OF MAILTRAP SO NO USE OF HOSTING**
